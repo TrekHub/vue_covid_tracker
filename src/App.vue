@@ -1,7 +1,5 @@
 <template>
 <Header />
-
-
 <div  class="container">
   <router-view/>
 </div>
